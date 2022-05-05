@@ -5,7 +5,6 @@ import it.unikey.trilayer.BLL.dto.response.AutoResponseDTO;
 import it.unikey.trilayer.BLL.mapper.implementation.AutoRequestMapper;
 import it.unikey.trilayer.BLL.mapper.implementation.AutoResponseMapper;
 import it.unikey.trilayer.BLL.mapper.implementation.PersonaRequestMapper;
-import it.unikey.trilayer.BLL.mapper.implementation.PersonaResponseMapper;
 import it.unikey.trilayer.BLL.service.abstraction.AutoService;
 import it.unikey.trilayer.DAL.Entity.Auto;
 import it.unikey.trilayer.DAL.Entity.Persona;
