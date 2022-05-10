@@ -1,5 +1,7 @@
 package it.unikey.trilayer.DAL.Entity;
 
+import io.swagger.annotations.ApiModelProperty;
+
 import javax.persistence.*;
 
 @Entity
